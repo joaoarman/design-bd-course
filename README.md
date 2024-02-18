@@ -32,3 +32,6 @@ Precisamos também salvar as **compras de cada usuário**, que deve conter: o va
 Este será o MVP da Coral Store, se o projeto der certo seremos contratados para expandir o mesmo.
 
 
+## Novos Requisitos no caminho:
+
+* Surgiu a necessidade de um campo que indique se o produto está ou não disponível no estoque
