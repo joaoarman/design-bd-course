@@ -1,5 +1,6 @@
 # Curso de Modelagem de Dados
 
+
 ## Passos para a Modelagem:
 
 1. Entender e pensar no software que será desenvolvido;
@@ -13,6 +14,7 @@
         1. N1:
         2. N2:
         3. N3:
+
 
 
 ## Requisitos:
