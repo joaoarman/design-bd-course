@@ -37,3 +37,4 @@ Este será o MVP da Coral Store, se o projeto der certo seremos contratados para
 * Surgiu a necessidade de um campo que indique se o produto está ou não disponível no estoque
 * O usuário pode ter mais de um endereço (relação 1:n)
 * Todo o pedido precisa conter um endereço de entrega
+* Adicionar colunas de pedido criado e pedido entregue na tabela de pedidos
